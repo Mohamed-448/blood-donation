@@ -1,0 +1,10 @@
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\bin\Debug\blood donation.exe.config
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\bin\Debug\blood donation.exe
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\bin\Debug\blood donation.pdb
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.csprojAssemblyReference.cache
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood_donation.frmHome.resources
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood_donation.Properties.Resources.resources
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.csproj.GenerateResource.cache
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.csproj.CoreCompileInputs.cache
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.exe
+C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.pdb
