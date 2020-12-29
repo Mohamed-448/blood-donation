@@ -8,3 +8,4 @@ C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood don
 C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.csproj.CoreCompileInputs.cache
 C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.exe
 C:\Users\uhhgtgde\Source\Repos\blood-donation\blood donation\obj\Debug\blood donation.pdb
+C:\Users\uhhgtgde\source\repos\blood-donation\blood donation\obj\Debug\blood_donation.UI.frmUsers.resources
